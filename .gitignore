@@ -1,0 +1,39 @@
+# Environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs and Temp
+*.log
+*.tmp
+*.bak
+.vite/
+
+# IDEs
+.vscode/
+.idea/
+*.swp

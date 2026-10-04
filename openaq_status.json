@@ -1,0 +1,1 @@
+{"success": true, "source": "OpenAQ", "stations_processed": 3, "observations_received": 36, "observations_inserted": 36, "duplicates_skipped": 0, "observations_rejected": 0, "timestamp": "2026-10-04T17:31:57.106421", "status": "AVAILABLE", "reason": "Ingestion successful"}
