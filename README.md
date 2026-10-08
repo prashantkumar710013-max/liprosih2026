@@ -1,4 +1,14 @@
-# Lipro
+# Lipro - Environmental Intelligence Platform
+
+> **Quick Start**: We have included a fully automated **1-Click Prototype Launcher** for easy setup and evaluation.
+
+### How to run the Prototype (Windows):
+1. Download this repository as a .zip and extract it.
+2. Double-click the **Start_Lipro.bat** file in the main folder.
+3. *That's it!* The script will automatically install all AI dependencies, start the backend/frontend engines, and open the dashboard in your web browser.
+
+---
+
 
 ## Overview
 Lipro is a data-driven 72-hour air-pollution forecasting and environmental-intelligence prototype for Delhi NCR.
@@ -101,3 +111,5 @@ Launch the full stack and navigate to the frontend URL to access the Lipro Dashb
 
 ## Project Status
 Completed and ready for prototype demonstration.
+
+
